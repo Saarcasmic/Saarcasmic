@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DharmaWarrior
-- 👀 I’m interested in Coding,Music,singing,Sprituality,Exploring Startup and learning enterpreneurship
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m @Saar Agrawal
+- 👀 I’m interested in Coding,Music,singing,Sprituality,Exploring Startup and learning enterpreneurship.
+- 🌱 I’m currently learning C++,JavaScript,React.
 - 💞️ I’m looking to collaborate on various projects which can help me learning different languages of computer programming.
 - 📫 How to reach me : 
 Insta : @Saarcasmic
