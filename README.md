@@ -22,8 +22,8 @@
   <a href="https://github.com/DharmaWarrior/vidverse">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DharmaWarrior&repo=vidverse&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
-  <a href="https://github.com/DharmaWarrior/Fashion-Outfit-Recommender">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DharmaWarrior&repo=Fashion-Outfit-Recommender&bg_color=0d1117&text_color=FFF&border_color=444">
+  <a href="https://github.com/DharmaWarrior/Food-Recipe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DharmaWarrior&repo=Food-Recipe&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
     
 </p>    
