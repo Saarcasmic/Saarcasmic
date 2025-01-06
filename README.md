@@ -9,21 +9,21 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=DharmaWarrior&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
+    <img src="https://github-readme-stats.vercel.app/api?username=Saarcasmic&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharmaWarrior&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saarcasmic&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444" >
   </a>
   <br>
  
 </p>
 <h1 align="center"> ✨ PINNED: </h1>
 <p align="center">
-  <a href="https://github.com/DharmaWarrior/vidverse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DharmaWarrior&repo=vidverse&bg_color=0d1117&text_color=FFF&border_color=444">
+  <a href="https://github.com/Saarcasmic/vidverse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=vidverse&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
-  <a href="https://github.com/DharmaWarrior/Food-Recipe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DharmaWarrior&repo=Food-Recipe&bg_color=0d1117&text_color=FFF&border_color=444">
+  <a href="https://github.com/Saarcasmic/Food-Recipe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=Food-Recipe&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
     
 </p>    
