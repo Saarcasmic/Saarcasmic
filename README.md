@@ -20,7 +20,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saarcasmic&theme=dark&background=0d1117&border=444" alt="GitHub Streak">
   <br>
   <!-- Add GitHub Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Saarcasmic&bg_color=0d1117&color=FFFFFF&line=4B8BBE&point=40C463&area=true&hide_border=true">
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=Saarcasmic&bg_color=0d1117&color=FFFFFF&line=4B8BBE&point=40C463&area=true&hide_border=true"> -->
 </p>
 
 <h1 align="center"> ✨ PINNED: </h1>
