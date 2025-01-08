@@ -94,15 +94,3 @@
     <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-
-<!-- Add coding activity metrics -->
-<p align="center">
-  <img src="https://wakatime.com/share/@Saarcasmic/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" height="400">
-</p>
-
-<hr>
-
-<!-- Add snake animation -->
-<p align="center">
-  <img src="https://github.com/Saarcasmic/Saarcasmic/blob/output/github-contribution-grid-snake.svg">
-</p>
