@@ -10,35 +10,35 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Saar16&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
+    <img src="https://github-readme-stats.vercel.app/api?username=Saarcasmic&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saar16&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saarcasmic&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444" >
   </a>
   <br>
   <!-- Add GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saar16&theme=dark&background=0d1117&border=444" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saarcasmic&theme=dark&background=0d1117&border=444" alt="GitHub Streak">
   <br>
   <!-- Add GitHub Activity Graph -->
-<!--   <img src="https://activity-graph.herokuapp.com/graph?username=Saar16&bg_color=0d1117&color=FFFFFF&line=4B8BBE&point=40C463&area=true&hide_border=true"> -->
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=Saarcasmic&bg_color=0d1117&color=FFFFFF&line=4B8BBE&point=40C463&area=true&hide_border=true"> -->
 </p>
 
 <h1 align="center"> ✨ PINNED: </h1>
 <p align="center">
-  <a href="https://github.com/Saar16/AskFinance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saar16&repo=vidverse&bg_color=0d1117&text_color=FFF&border_color=444">
+  <a href="https://github.com/Saarcasmic/AskFinance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=vidverse&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
-  <a href="https://github.com/Saar16/HeartGuard-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saar16&repo=Food-Recipe&bg_color=0d1117&text_color=FFF&border_color=444">
+  <a href="https://github.com/Saarcasmic/HeartGuard-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=Food-Recipe&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
-  <a href="https://github.com/Saar16/FashionMatch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saar16&repo=Food-Recipe&bg_color=0d1117&text_color=FFF&border_color=444">
+  <a href="https://github.com/Saarcasmic/FashionMatch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=Food-Recipe&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
-  <a href="https://github.com/Saar16/Food-Recipe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saar16&repo=Food-Recipe&bg_color=0d1117&text_color=FFF&border_color=444">
+  <a href="https://github.com/Saarcasmic/Food-Recipe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=Food-Recipe&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
-  <a href="https://github.com/Saar16/SaltnPepper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saar16&repo=Food-Recipe&bg_color=0d1117&text_color=FFF&border_color=444">
+  <a href="https://github.com/Saarcasmic/SaltnPepper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=Food-Recipe&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
 </p>    
 
@@ -85,12 +85,12 @@
 
 <!-- Add Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saar16&theme=darkhub&no-frame=true&column=7">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saarcasmic&theme=darkhub&no-frame=true&column=7">
 </p>
 
 <h1 align="center"> 🤝 Socials: </h1>
 <p align="center">
-  <a href="www.linkedin.com/in/Saar16">
+  <a href="www.linkedin.com/in/Saarcasmic">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
