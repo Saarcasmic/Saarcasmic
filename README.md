@@ -25,20 +25,20 @@
 
 <h1 align="center"> ✨ PINNED: </h1>
 <p align="center">
+  <a href="https://github.com/Saarcasmic/BulkEmailCampaignManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=BulkEmailCampaignManager&bg_color=0d1117&text_color=FFF&border_color=444">
+  </a>
   <a href="https://github.com/Saarcasmic/AskFinance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=vidverse&bg_color=0d1117&text_color=FFF&border_color=444">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=AskFinance&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
   <a href="https://github.com/Saarcasmic/HeartGuard-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=Food-Recipe&bg_color=0d1117&text_color=FFF&border_color=444">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=HeartGuard-AI&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
   <a href="https://github.com/Saarcasmic/FashionMatch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=Food-Recipe&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-  <a href="https://github.com/Saarcasmic/Food-Recipe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=Food-Recipe&bg_color=0d1117&text_color=FFF&border_color=444">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=FashionMatch&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
   <a href="https://github.com/Saarcasmic/SaltnPepper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=Food-Recipe&bg_color=0d1117&text_color=FFF&border_color=444">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saarcasmic&repo=SaltnPepper&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
 </p>    
 
